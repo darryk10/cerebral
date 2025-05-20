@@ -9,6 +9,8 @@ A declarative state and side effects management solution for popular JavaScript 
 
 ## Project Status
 
+
+
 Cerebral 5.3 is the latest release, bringing modern API patterns and significant improvements:
 
 - Supports full type safety in your application
