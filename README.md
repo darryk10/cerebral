@@ -35,6 +35,7 @@ Cerebral works seamlessly with all major frontend frameworks:
 
 
 
+
 ## Getting Started
 
 ### Installation
