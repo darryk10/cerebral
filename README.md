@@ -32,6 +32,9 @@ Cerebral works seamlessly with all major frontend frameworks:
 - **Inferno**: Supports v4 through v9
 - **Angular**: Compatible with Angular 14 through 19
 
+
+
+
 ## Getting Started
 
 ### Installation
